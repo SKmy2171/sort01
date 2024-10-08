@@ -1,5 +1,5 @@
 #include <bits/stdc++.h>
-//The first modification adds a comment
+//The second modification removes the new comment
 #define SIZE 10000000
 using namespace std;
 
